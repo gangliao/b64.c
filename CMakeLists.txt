@@ -9,4 +9,4 @@ install(TARGETS base64
         LIBRARY DESTINATION "lib"
         ARCHIVE DESTINATION "lib")
 
-install(FILES include/b64.h DESTINATION "include")
+install(FILES b64.h DESTINATION "include")
